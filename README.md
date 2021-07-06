@@ -34,7 +34,7 @@ Weights of trained model - /models/vds_weights.h5
 - Keras
 - Tensorflow
 - Keras_retinanet
-- cv2
+- CV2
 
 ### Steps
 
